@@ -4,4 +4,4 @@ sum = 1
 while N!=0:
     sum*=N
     N-=1
-print(sum) 
+print(sum)
